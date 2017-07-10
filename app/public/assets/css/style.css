@@ -1,39 +1,21 @@
-
+.navbar-right{
+	position: absolute;
+	right:10%;
+	background-color: white;
+}
+.navbar{
+	background-color: white;
+	font-family: 'Crafty Girls', cursive;
+	font-size:150%;
+}
+.header-title{
+	background-color: white;
+	font-family: 'Crafty Girls', cursive;
+	font:teal;
+}
 body {
 	background: url("../images/seigaiha.png");
 	 margin:10px auto;
-	}
-
-.header {
-	color:white;
-	background-color:#4aaaa5;
-	border:1px solid #cccccc;
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
-	float:left;
-	position:fixed;
-	color:white;
-	left:40px;
-	text-align:center;
-	}
-
-.header2 {
-	color:#4aaaa5;
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
-	font-size: x-large;
-	}
-
-.header3 {	color:#4aaaa5;
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
-	font-size: x-large;
-	top:200px;
-	background:#ffffff;
-	border: 5px solid #dddddd;
-	width:650px;
-	position:relative;
-	top:65px;
-	float:left;
-	left:-15px;
-	z-index: 20;
 	}
 
 
