@@ -1,21 +1,27 @@
 .navbar-right{
 	position: absolute;
 	right:10%;
-	background-color: white;
+	background-color: #4aaaa5;
+	font:white;
+	font-color:white;
 }
 .navbar{
-	background-color: white;
 	font-family: 'Crafty Girls', cursive;
 	font-size:150%;
+	background-color: #4aaaa5;
+	font-color:white;
+	border:teal;
 }
 .header-title{
-	background-color: white;
 	font-family: 'Crafty Girls', cursive;
 	font:teal;
 }
 body {
 	background: url("../images/seigaiha.png");
 	 margin:10px auto;
+	}
+	.jumbotron{
+		background: #4aaaa5;
 	}
 
 
@@ -75,3 +81,6 @@ body {
 
 
 .connectwithme{float:right;}
+.resume{
+	height:80%;
+}
