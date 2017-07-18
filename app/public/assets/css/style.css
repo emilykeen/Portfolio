@@ -18,7 +18,7 @@
 }
 body {
 	background: url("../images/seigaiha.png");
-	 margin:10px auto;
+	 margin:5% auto;
 	}
 	.jumbotron{
 		background: #4aaaa5;
@@ -27,10 +27,10 @@ body {
 
 .label {
 	position: absolute;
-	bottom: 20px;
-	left: 18px;
-	height:20px;
-	width:70%;
+	bottom: 10%;
+	left: 5.5%;
+	height:15%;
+	width:90%;
 	background: #4aaaa5;
 	text-align: center;
 	color:white;
@@ -81,6 +81,13 @@ body {
 
 
 .connectwithme{float:right;}
-.resume{
-	height:80%;
+#resume{
+	height:400%;
+}
+
+#resume{
+	width:100%;
+}
+#resume{
+	width:100%;
 }
